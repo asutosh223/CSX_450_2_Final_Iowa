@@ -26,7 +26,6 @@ This problem can be solved using Logistic Regression, Decision tree, Random Fore
 Regression model can have a naive benchmark model of mean value calculation
 
 ## Performance/Evaluation Metric
-The problem is solved as a Classification Model. Below are few Evaluation Metric/Models that can be used
-- Confusion Matrix
-- Accuracy Paradox
-- CAP Curve Analysis
+The problem is solved as a Regression Model. Below are few Evaluation Metric/Models that can be used
+- Adjusted R Squared
+- MSE (mean square error)
